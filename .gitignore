@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+*.log
+.DS_Store
+.idea/
+.vscode/
+public/engine/*.js
+public/engine/*.wasm
+!public/engine/.gitkeep
+*.tsbuildinfo
+.vitest/
